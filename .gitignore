@@ -1,5 +1,8 @@
 # Entire folders and contents.
-*/_archive
+_archive/*
+
+# Ignore Pycharm files
+*.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
