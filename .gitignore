@@ -2,7 +2,7 @@
 _archive/*
 
 # Ignore Pycharm files
-*.idea
+*.idea*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
