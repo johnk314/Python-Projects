@@ -3,7 +3,7 @@ _archive/*
 
 # Ignore Pycharm files
 .idea*
-.idea/*
+.idea/vcs.xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -130,4 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.idea/vcs.xml
+
